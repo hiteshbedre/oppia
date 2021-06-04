@@ -52,4 +52,4 @@ The Oppia code is released under the [Apache v2 license](https://github.com/oppi
 
 We also have public chat rooms on Gitter: [https://gitter.im/oppia/oppia-chat](https://gitter.im/oppia/oppia-chat). Drop by and say hello!
 
-trigger 2
+trigger 3
