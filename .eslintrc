@@ -7,7 +7,7 @@
     "eslint:recommended"
   ],
   "plugins": [
-    "angular",
+    "angular",,m,
     "html",
     "unused-imports",
     "@typescript-eslint",
