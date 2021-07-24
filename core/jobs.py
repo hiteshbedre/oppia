@@ -69,6 +69,8 @@ VALID_STATUS_CODE_TRANSITIONS = {
     STATUS_CODE_CANCELED: [],
 }
 
+cancer = True
+
 # The default amount of time that defines a 'recent' job. Jobs that were
 # queued more recently than this number of milliseconds ago are considered
 # 'recent'.
